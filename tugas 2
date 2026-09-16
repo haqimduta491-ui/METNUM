@@ -1,0 +1,81 @@
+# Created by Octave 11.3.0, Mon Sep 07 15:24:19 2026 UTC
+# name: T
+# type: matrix
+# rows: 3
+# columns: 1
+ 123
+ 456
+ 789
+
+
+# name: Y
+# type: scalar
+12
+
+
+# name: a
+# type: scalar
+123
+
+
+# name: ans
+# type: scalar
+789
+
+
+# name: b
+# type: scalar
+12
+
+
+# name: c
+# type: scalar
+22
+
+
+# name: d
+# type: scalar
+30
+
+
+# name: e
+# type: scalar
+14
+
+
+# name: f
+# type: scalar
+16
+
+
+# name: r
+# type: scalar
+123
+
+
+# name: t
+# type: matrix
+# rows: 2
+# columns: 1
+ 456
+ 789
+
+
+# name: u
+# type: matrix
+# rows: 3
+# columns: 1
+ 7
+ 8
+ 9
+
+
+# name: y
+# type: matrix
+# rows: 3
+# columns: 1
+ 12
+ 34
+ 56
+
+
